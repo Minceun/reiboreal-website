@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "blog": "Stories",
+    "about": "About"
+  },
+  "home": {
+    "title": "Reiboreal",
+    "subtitle": "Every piece, a unique work of art",
+    "cta": "Explore Collection",
+    "scrollDown": "Scroll Down",
+    "brandPhilosophy": {
+      "title": "Design Inspired by Life",
+      "description": "Reiboreal was born from a pursuit of beauty and dedication to craftsmanship. We believe true luxury lies not in price, but in the devotion to detail and emotion. Each piece is carefully designed and handcrafted to accompany your most important moments."
+    },
+    "featured": {
+      "title": "Featured Collection",
+      "viewAll": "View All"
+    },
+    "instagram": {
+      "title": "Instagram @reiboreal"
+    },
+    "newsletter": {
+      "title": "Subscribe to Our Story",
+      "description": "Get new releases, exclusive offers, and design inspiration",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  },
+  "shop": {
+    "title": "Collection",
+    "subtitle": "Discover your signature piece",
+    "totalProducts": "{count} products",
+    "sortBy": {
+      "label": "Sort by",
+      "default": "Default",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "newest": "Newest First"
+    },
+    "loadMore": "Load More",
+    "filters": {
+      "category": "Category",
+      "material": "Material",
+      "priceRange": "Price Range",
+      "clear": "Clear All Filters"
+    }
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "quantity": "Quantity",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "details": "Product Details",
+    "materials": "Materials",
+    "size": "Size",
+    "care": "Care Instructions",
+    "careInstructions": [
+      "Avoid contact with cosmetics, perfumes, and chemicals",
+      "Store in jewelry box when not wearing",
+      "Clean gently with soft cloth regularly",
+      "Avoid impact and scratches"
+    ],
+    "related": "You May Also Like"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "goShopping": "Go Shopping",
+    "continueShopping": "Continue Shopping",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "checkout": "Checkout",
+    "freeShippingHint": "Add ¥{amount} more for free shipping",
+    "paymentMethods": "We accept WeChat Pay, Alipay, and Credit Cards"
+  },
+  "blog": {
+    "title": "Our Stories",
+    "subtitle": "Design Inspiration · Craft Sharing · Style Guide",
+    "readTime": "{time} min read",
+    "categories": {
+      "brand": "Brand Story",
+      "style": "Style Guide",
+      "craft": "Craftsmanship"
+    }
+  },
+  "about": {
+    "title": "Reiboreal",
+    "story": {
+      "title": "Our Story",
+      "paragraphs": [
+        "Founded in 2023, Reiboreal embodies the essence of 'Real'. We believe true beauty stems from dedication to craftsmanship and attention to detail.",
+        "After traveling the world, our founder was captivated by handcrafted arts across different cultures, inspiring the creation of a brand that perfectly blends traditional craftsmanship with modern design.",
+        "Each Reiboreal piece is meticulously designed and handcrafted. We don't pursue mass production; instead, we focus on creating unique jewelry for every customer."
+      ]
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality First",
+        "description": "Premium materials, expert craftsmanship, perfection in every detail"
+      },
+      "unique": {
+        "title": "Unique Design",
+        "description": "Original designs that make you stand out"
+      },
+      "sustainable": {
+        "title": "Sustainable",
+        "description": "Eco-friendly materials, responsible production, caring for our planet"
+      }
+    },
+    "craft": {
+      "title": "Craftsmanship",
+      "intro": "Each piece goes through multiple meticulous processes:",
+      "steps": [
+        {
+          "title": "Design Sketch",
+          "description": "Transforming inspiration into blueprints"
+        },
+        {
+          "title": "Material Selection",
+          "description": "Carefully choosing every raw material"
+        },
+        {
+          "title": "Hand Shaping",
+          "description": "Artisans crafting every detail by hand"
+        },
+        {
+          "title": "Fine Polishing",
+          "description": "Repeated polishing to perfection"
+        },
+        {
+          "title": "Quality Inspection",
+          "description": "Rigorous testing ensures flawless presentation"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "For any questions or custom requests, feel free to reach out",
+      "email": "Email",
+      "instagram": "Instagram",
+      "wechat": "WeChat"
+    }
+  },
+  "footer": {
+    "description": "Every piece, a unique work of art",
+    "quickLinks": "Quick Links",
+    "customerService": "Customer Service",
+    "shipping": "Shipping Info",
+    "returns": "Returns Policy",
+    "care": "Care Guide",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 Reiboreal. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "search": "Search",
+    "currency": "¥",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "remove": "Remove",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  }
+}
